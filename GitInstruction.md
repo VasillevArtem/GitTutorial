@@ -1,4 +1,5 @@
 # My git instruction 
+# Seminar 1 
 * ***git --version*** - команда, показывающая версию Git.
 
  ![Add](./Pictures/Version.jpg)
