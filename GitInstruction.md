@@ -31,6 +31,11 @@
 
  ![Add](./Pictures/Diff.jpg)  
 
+
+ # Seminar 3
+* ***git git clone <url_addres_repo>*** – команда, для клонирования внешнего репозитория на локальный ПК.
+ ![Add](./Pictures/clone.jpg)
+
  Более подробно в полном [*руководстве*.](https://git-scm.com/book/ru/v2 "О системе контроля версий на русском")
  
  
