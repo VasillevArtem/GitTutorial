@@ -40,14 +40,9 @@
 * ***git branch -d branch_name*** - команда, для  удаления ветки.
 
 * ***git checkout branch_name*** - команда, для переключения между ветками.
-   
 
-
-    
-
-
-
-    
+* ***git merge branch_name*** - команда, для объединени ветки с branch_name с текущей веткой.
+       
 
 
     
