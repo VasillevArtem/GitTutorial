@@ -38,6 +38,9 @@
 
 * ***git branch branch_name*** - команда, для создания новой ветки.
     ![Add](./Pictures/new_branch.jpg)
+
+* ***git branch -d branch_name*** - команда, для  удаления ветки.
+    ![Add](./Pictures/delete_branchjpg.jpg)
     
 
  Более подробно в полном [*руководстве*.](https://git-scm.com/book/ru/v2 "О системе контроля версий на русском")
