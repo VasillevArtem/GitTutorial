@@ -44,6 +44,9 @@
 
 * ***git checkout branch_name*** - команда, для переключения между ветками.
     ![Add](./Pictures/checkout.jpg)
+
+* ***git merge branch_name*** - команда, для объединени ветки с branch_name с текущей веткой.
+    ![Add](./Pictures/merge.jpg)
     
 
  Более подробно в полном [*руководстве*.](https://git-scm.com/book/ru/v2 "О системе контроля версий на русском")
