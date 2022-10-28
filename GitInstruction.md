@@ -33,6 +33,28 @@
 
 <<<<<<< HEAD
 
+<<<<<<< HEAD
+=======
+ # Seminar 2
+* ***git branch*** - команда, показывающая список существующих веток, и указывающая на ветку в которой находимся в данный момент.
+    ![Add](./Pictures/branch.jpg)
+
+* ***git branch branch_name*** - команда, для создания новой ветки.
+    ![Add](./Pictures/new_branch.jpg)
+
+* ***git branch -d branch_name*** - команда, для  удаления ветки.
+    ![Add](./Pictures/delete_branchjpg.jpg)
+
+* ***git checkout branch_name*** - команда, для переключения между ветками.
+    ![Add](./Pictures/checkout.jpg)
+
+* ***git merge branch_name*** - команда, для объединени ветки с branch_name с текущей веткой.
+    ![Add](./Pictures/merge.jpg)
+
+* ***git log --graph*** - команда, для отображения логов в виде древовидной структуры - графа.
+    ![Add](./Pictures/log_graph.jpg)
+    
+>>>>>>> SecondSeminar
  # Seminar 3
 * ***git clone <url_addres_repo>*** – команда, для клонирования внешнего репозитория на локальный ПК.
  ![Add](./Pictures/clone.jpg)
@@ -44,6 +66,7 @@
  * ***pull request*** – команда для предложения изменений/запрос на вливание изменений в репозиторий
  ![Add](./Pictures/pull_requset.jpg)
  
+<<<<<<< HEAD
 =======
  # Seminar 3
 * ***git clone <url_addres_repo>*** – команда, для клонирования внешнего репозитория на локальный ПК.
@@ -55,6 +78,8 @@
 * ***pull request*** – команда для предложения изменений/запрос на вливание изменений в репозиторий
 
 >>>>>>> ThirdSeminarWithOutPictures
+=======
+>>>>>>> SecondSeminar
 
  Более подробно в полном [*руководстве*.](https://git-scm.com/book/ru/v2 "О системе контроля версий на русском")
  
